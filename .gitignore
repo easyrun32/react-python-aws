@@ -3,3 +3,8 @@ env
 htmlcov
 .coverage
 node_modules
+terraform/*.tfstate
+terraform/*.tfstate.backup
+terraform/*.tfvars
+terraform/.terraform/
+hello.txt
