@@ -1,12 +1,12 @@
 <div align="center">
 
 <h3>
-This project at the moment uses
+This project at the moment uses 🔨
 <h3>
 <h2>
 React<br/>
 Python<br/>
-AWS, ECS, Terraform, Docker <br/>
+AWS, ECS, Terraform 📖, Docker 🐋 <br/>
 <br/>
 </h2>
 
@@ -31,8 +31,6 @@ Frank Steven and sons roofing company
 <br/>
 Eventually this application will serve a purpose on tackling on
 the lack of knowledge within the company!
-
-To help benefit the company
 
 <div>
 
