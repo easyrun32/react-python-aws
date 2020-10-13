@@ -10,10 +10,11 @@ AWS, ECS, Terraform, Docker <br/>
 <br/>
 </h2>
 
-<p>
 <ins>
 <h3>Purpose </h3>
 </ins>
+
+<p>
 This Application will take the hours of your days at work, and email it
 to your <br/>Accounting manager or Boss<br/> for them to proccess a paycheck for your hardwork! ❤️
 
